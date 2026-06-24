@@ -12,6 +12,7 @@ This is a project for creating a README example, part of a GItHub sessions serie
 ```
 
 ## Resources
+* [Markdown documentation](https://www.markdownguide.org/basic-syntax/)
 
 ## License
 [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)

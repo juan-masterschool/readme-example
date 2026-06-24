@@ -1,8 +1,12 @@
-# Description
+# README Example
 
-# Installation
+## Description
 
-# Resources
+This is a project for creating a README example, part of a GItHub sessions series.
 
-# License
+## Installation
+
+## Resources
+
+## License
 
